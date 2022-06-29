@@ -1,0 +1,7 @@
+{
+  "name": "SmartMeeteringApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
